@@ -36,17 +36,6 @@ code Log4J.md
 
 ---
 
-## 🎨 Badges (Optional Styling)
-
-You can add custom badges from [shields.io](https://shields.io):
-
-```markdown
-![Vuln Type](https://img.shields.io/badge/type-RCE-red)
-![Status](https://img.shields.io/badge/status-Analyzed-brightgreen)
-```
-
----
-
 ## 🧩 Extras
 
 Consider adding:
